@@ -28,17 +28,21 @@ After finishing soldering the LED and resistor, use a pair of flush cutters to t
 #### Step 3 - Teensy header
 
 Place the headers on the back side of the board
+
 ![](images/step3.jpg)
 
 A little piece of tape will help hold the pins in place
+
 ![](images/step3-tape.jpg)
 
 Solder just 1 pin from each header (3 pins total) to tack the headers in place
+
 ![](images/step3-tack.jpg)
 
 #### Step 4 - Install Teensy
 
 Mount the Teensy to the headers. If the pin alignment is off, re-solder the pin and realign.
+
 ![](images/step4.jpg)
 
 Solder the pins on top of the Teensy and then solder the rest of the Teensy header pins on the front of the board
@@ -59,6 +63,7 @@ Solder the header onto the back of the board. It is important that the header is
 ![](images/step6.jpg)
 
 Next, mount the accelerometer, so that the Vcc pin is closest to the Teensy, and facing up.
+
 ![](images/step6-mount.jpg)
 
 Tack the Vcc pin, and adjust until the board is flat and square with the teensy.
@@ -72,6 +77,7 @@ Just like the accelerometer header, tack 1 pin, then align, and solder the rest
 #### Step 8 - Screw Terminal
 
 Install the screw terminal, so that the gates (metal teeth) face away from the board
+
 ![](images/step8.jpg)
 
 #### Step 9 - Wire up LED Ring
